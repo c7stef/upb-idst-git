@@ -1,2 +1,2 @@
 # Here is the stuff
-print('Feature')
+print('Hello world')
